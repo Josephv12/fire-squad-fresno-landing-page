@@ -5,3 +5,6 @@
 ### February 17th, 2016
 <p style="color:blue;" >Our entire class finally did a push to GitHub. :-)</p>
 ## February 18th clock-in
+
+## second heading
+<p>second paragraph</p>
